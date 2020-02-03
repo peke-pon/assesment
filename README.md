@@ -1,6 +1,6 @@
 # あなたのいいところ診断ゲーム
 
-![preview](https://raw.githubusercontent.com/peke-pon/assessment/gh-pages/ScreenClip.png)
+![preview](https://raw.githubusercontent.com/peke-pon/assesment/master/ScreenClip.png)
 
 ## 説明
 
